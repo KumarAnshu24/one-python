@@ -9,6 +9,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Machine Learning > Deep Learning
 * [TensorFlow](https://www.tensorflow.org/) - Low-level (configurations over conventions) library for building deep learning data flow graphs.
+* .[PyTorch](https://pytorch.org/) - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab
 
 #### Machine Learning > Deep Learning + Computer Vision
 * [caffe](http://caffe.berkeleyvision.org/) - Deep learning framework made with expression, speed, and modularity in mind.
